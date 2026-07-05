@@ -49,13 +49,6 @@ I build polished apps, developer tools, game experiments, and Linux/macOS utilit
 <table>
   <tr>
     <td width="33%">
-      <h3>GnomexBar</h3>
-      <p>GNOME Shell extension for showing AI provider usage metrics directly in the panel.</p>
-      <a href="https://github.com/andershfranzen/GnomexBar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andershfranzen&repo=GnomexBar&theme=github_dark&hide_border=false" alt="GnomexBar repository card" />
-      </a>
-    </td>
-    <td width="33%">
       <h3>Andromeda</h3>
       <p>macOS menu bar controls for XREAL glasses.</p>
       <a href="https://github.com/andershfranzen/andromeda">
