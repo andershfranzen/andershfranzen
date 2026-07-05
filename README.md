@@ -48,30 +48,21 @@ I build polished apps, developer tools, game experiments, and Linux/macOS utilit
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3>GnomexBar</h3>
       <p>GNOME Shell extension for showing AI provider usage metrics directly in the panel.</p>
       <a href="https://github.com/andershfranzen/GnomexBar">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=andershfranzen&repo=GnomexBar&theme=github_dark&hide_border=false" alt="GnomexBar repository card" />
       </a>
     </td>
-    <td width="50%">
-      <h3>Lost Memories</h3>
-      <p>OpenRSC browser client, game server, and development environment.</p>
-      <a href="https://github.com/andershfranzen/lostmemories">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=andershfranzen&repo=lostmemories&theme=github_dark&hide_border=false" alt="lostmemories repository card" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
+    <td width="33%">
       <h3>Andromeda</h3>
       <p>macOS menu bar controls for XREAL glasses.</p>
       <a href="https://github.com/andershfranzen/andromeda">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=andershfranzen&repo=andromeda&theme=github_dark&hide_border=false" alt="andromeda repository card" />
       </a>
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3>Legion RGB</h3>
       <p>CLI and GUI for Lenovo Legion Spectrum keyboard RGB control.</p>
       <a href="https://github.com/andershfranzen/legion-kb-rgb">
